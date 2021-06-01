@@ -1,0 +1,9 @@
+name: C:\Users\Arun\Documents\python-DS\env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - jupyter
