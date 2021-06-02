@@ -1,10 +1,9 @@
 # <p align=center>Machine Learning - Walkthrough for Beginners</p>
 
-A repository containing notebooks that I created while learning **Data Science Bootcamp 2021** from _ZTM Academy(Andre Negoie & mdbrouke)_. This will also serve as a guide for Data Science newbies out there and who are aspiring to be Data Scients or ML Engineers in future.
-
+A repository containing notebooks that I created while learning **Data Science Bootcamp 2021** from _ZTM Academy(Andre Negoie & mdbrouke)_. This will also serve as a guide for Data Science newbies out there and also for future Data Scientists and ML Engineers.
 ## Clone & Setup
 
-(Anaconda Users you can clone this repo and can use it directly.)
+(Anaconda Users you can clone this repo and can use it directly)
 
 ### Requirements
 
