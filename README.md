@@ -15,10 +15,17 @@ A repository containing notebooks that I created while learning **Data Science B
 
 - Clone this repository
 - Open Andaconda Prompt and navigate into the repository
+
      cd FOLDER_PATH
+
 - To setup your environment, run
+
      conda env create --file environment.yml --name env_from_file
+
 - Activate your environment, run
+
      conda active ENVIRONMENT_PATH
+
 - Open jupyter notebooks, run
+
      jupyter notebooks
