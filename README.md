@@ -19,19 +19,19 @@ A repository containing notebooks that I created while learning **Data Science B
 cd FOLDER_PATH
 ```
 
-- To setup your environment, run
+- To setup your environment
 
 ```
 conda env create --file environment.yml --name env_from_file
 ```
 
-- Activate your environment, run
+- T0 activate your environment
 
 ```
 conda active ENVIRONMENT_PATH
 ```
 
-- Open jupyter notebooks, run
+- To open jupyter notebooks
 
 ```
 jupyter notebooks
