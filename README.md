@@ -25,7 +25,7 @@ cd FOLDER_PATH
 conda env create --file environment.yml --name env_from_file
 ```
 
-- T0 activate your environment
+- To activate your environment
 
 ```
 conda active ENVIRONMENT_PATH
