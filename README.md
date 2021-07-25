@@ -34,5 +34,5 @@ conda active ENVIRONMENT_PATH
 - To open jupyter notebooks
 
 ```
-jupyter notebooks
+jupyter notebook
 ```
